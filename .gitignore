@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets (DO NOT COMMIT)
+*.env
+.env.local
+secrets/
+credentials/
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OpenClaw state (keep config, not state)
+.openclaw/state/
+.openclaw/sessions/
