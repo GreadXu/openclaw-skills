@@ -14,7 +14,7 @@
 | **仓库** | [code-firefly/claude-code-study-template](https://github.com/code-firefly/claude-code-study-template) |
 | **功能领域** | AI 学习、Claude Code 学习计划 |
 | **描述** | 官方学习计划模板，用于系统学习 AI 技术 |
-| **派生 Agent** | Claude Code Study (GreadXu/claude-code-study) |
+| **派生 Agent** | Claude Code Study ([GreadXu/claude-code-study](https://github.com/GreadXu/claude-code-study)) |
 | **状态** | 活跃 |
 | **最后更新** | 2026-03-05 |
 

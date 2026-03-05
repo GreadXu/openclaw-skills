@@ -29,10 +29,15 @@
 | **名称** | Claude Code Study |
 | **继承自** | code-firefly/claude-code-study-template |
 | **GitHub 仓库** | [GreadXu/claude-code-study](https://github.com/GreadXu/claude-code-study) |
+| **模板仓库** | [code-firefly/claude-code-study-template](https://github.com/code-firefly/claude-code-study-template) |
 | **功能领域** | AI 学习、代码开发 |
-| **部署方式** | (待确认) |
-| **飞书机器人** | (待绑定) |
-| **状态** | (待确认) |
+| **Coding Plan** | 智谱 Coding Plan |
+| **部署方式** | 本地 |
+| **飞书机器人** | (未绑定) |
+| **模型** | (待确认) |
+| **状态** | 活跃 ✅ |
+| **创建日期** | (待确认) |
+| **备注** | 基于官方模板的个人学习用 Agent |
 
 ---
 

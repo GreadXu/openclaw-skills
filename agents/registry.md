@@ -8,15 +8,15 @@
 ## 📊 快速索引
 
 ### 按类型
-- **个人 Agent:** 1
-- **模板 Agent:** 2
+- **个人 Agent:** 2
+- **模板 Agent:** 1
 
 ### 按部署方式
-- **本地:** 1
+- **本地:** 2
 - **云服务器:** 0 (待部署)
 
 ### 按状态
-- **活跃:** 1
+- **活跃:** 2
 - **开发中:** 0
 - **休眠:** 0
 
@@ -63,18 +63,42 @@
 
 ## 👤 个人 Agent 清单
 
-### 1. Claude Code Study
+### 1. Agent Nexus (main)
+
+| 字段 | 值 |
+|------|-----|
+| **Agent ID** | main |
+| **名称** | Agent Nexus |
+| **类型** | 个人 Agent |
+| **继承自** | - (原创) |
+| **GitHub 仓库** | - |
+| **功能领域** | 全能助手、Agent 管理、任务协调 |
+| **Coding Plan** | - |
+| **部署方式** | 本地 → **待迁移至云端** ☁️ |
+| **云服务器信息** | (待配置) |
+| **飞书机器人** | 当前会话机器人 |
+| **模型** | bailian/qwen3.5-plus |
+| **状态** | 活跃 ✅ |
+| **创建日期** | 2026-03-02 |
+| **最后更新** | 2026-03-05 |
+| **备注** | 第一个 OpenClaw 全能助手，将首个上云部署 |
+
+### 2. Claude Code Study
 
 | 字段 | 值 |
 |------|-----|
 | **名称** | Claude Code Study |
 | **仓库** | [GreadXu/claude-code-study](https://github.com/GreadXu/claude-code-study) |
+| **模板仓库** | [code-firefly/claude-code-study-template](https://github.com/code-firefly/claude-code-study-template) |
 | **类型** | 个人 Agent |
 | **继承自** | code-firefly/claude-code-study-template |
 | **功能领域** | AI 学习、代码开发 |
-| **部署方式** | (待确认) |
-| **飞书机器人** | (待绑定) |
-| **状态** | (待确认) |
+| **Coding Plan** | 智谱 Coding Plan |
+| **部署方式** | 本地 |
+| **飞书机器人** | (未绑定) |
+| **模型** | (待确认) |
+| **状态** | 活跃 ✅ |
+| **备注** | 基于官方模板的个人学习用 Agent |
 
 ---
 
