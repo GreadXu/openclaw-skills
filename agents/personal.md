@@ -6,19 +6,19 @@
 
 ## 📋 Agent 列表
 
-### 1. Agent Nexus (main)
+### 1. 萤火 🔥 (main)
 
 | 字段 | 值 |
 |------|-----|
 | **Agent ID** | main |
-| **名称** | Agent Nexus |
+| **名称** | 萤火 (Firefly) |
 | **继承自** | - (原创) |
-| **GitHub 仓库** | - |
+| **GitHub 仓库** | [GreadXu/agent-nexus](https://github.com/GreadXu/agent-nexus) |
 | **功能领域** | 全能助手、Agent 管理、任务协调 |
 | **部署方式** | 本地 → **待迁移至云端** ☁️ |
 | **飞书机器人** | 当前会话机器人 |
 | **模型** | bailian/qwen3.5-plus |
-| **状态** | 活跃 |
+| **状态** | 活跃 ✅ |
 | **创建日期** | 2026-03-02 |
 | **备注** | 第一个 OpenClaw 全能助手，将首个上云部署 |
 
